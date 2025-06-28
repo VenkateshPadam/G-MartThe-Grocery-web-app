@@ -1,4 +1,4 @@
-# 🛒 G-MART The Digital Grocery Web App
+# 🛒 G-MART:The Digital Grocery Web App
 
 A full-stack Grocery Shopping Web Application that allows users to register, login, browse products, add items to a cart, and place orders — all with secure JWT authentication and a responsive UI.
 
